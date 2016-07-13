@@ -28,7 +28,7 @@ class ViewController: UIViewController {
     
     //从SQLite加载数据
     func initUser() {
-        let data = db.query("select * from tuser")
+        let data = db.query("select * from user")
         if data.count > 0 {
             //获取最后一行数据显示
             let user = data[data.count - 1]

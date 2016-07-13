@@ -21,9 +21,9 @@ class delete: UIViewController {
     
     //点击保存
     
-    @IBAction func deletenum(sender: AnyObject) {
+    @IBAction func deletemobile(sender: AnyObject) {
         let value=htext1.text!
-        let sql = "delete from user where num='\(value)'"
+        let sql = "delete from user where mobile='\(value)'"
         let result = db.execute(sql)
         print(result)
     }
