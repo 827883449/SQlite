@@ -22,7 +22,7 @@ class chazhao: UIViewController {
         sf()
     }
     func sf(){
-    textf.text=""
+    textf1.text=""
         let a=textf.text!
         let data = db.query("select * from user where uname='\(a)'")
         for(var i=0;i<data.count;i++)

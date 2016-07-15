@@ -22,6 +22,7 @@
 		698362C61D2F3B15002B7F6C /* String-Extras.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698362C31D2F3B15002B7F6C /* String-Extras.swift */; };
 		698362C81D2F3B20002B7F6C /* data.db in Resources */ = {isa = PBXBuildFile; fileRef = 698362C71D2F3B20002B7F6C /* data.db */; };
 		698362CA1D2F4D1A002B7F6C /* delete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698362C91D2F4D1A002B7F6C /* delete.swift */; };
+		69EF46411D36497500734907 /* f514995a23023325b98a5903aba7264f.png in Resources */ = {isa = PBXBuildFile; fileRef = 69EF46401D36497500734907 /* f514995a23023325b98a5903aba7264f.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		698362C31D2F3B15002B7F6C /* String-Extras.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String-Extras.swift"; sourceTree = "<group>"; };
 		698362C71D2F3B20002B7F6C /* data.db */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = data.db; sourceTree = SOURCE_ROOT; };
 		698362C91D2F4D1A002B7F6C /* delete.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = delete.swift; sourceTree = "<group>"; };
+		69EF46401D36497500734907 /* f514995a23023325b98a5903aba7264f.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = f514995a23023325b98a5903aba7264f.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +154,7 @@
 		698362C01D2F3B15002B7F6C /* SQLiteDB */ = {
 			isa = PBXGroup;
 			children = (
+				69EF46401D36497500734907 /* f514995a23023325b98a5903aba7264f.png */,
 				698362C11D2F3B15002B7F6C /* SQLiteDB.swift */,
 				698362C21D2F3B15002B7F6C /* SQLTable.swift */,
 				698362C31D2F3B15002B7F6C /* String-Extras.swift */,
@@ -265,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6983629A1D2F3966002B7F6C /* LaunchScreen.storyboard in Resources */,
+				69EF46411D36497500734907 /* f514995a23023325b98a5903aba7264f.png in Resources */,
 				698362C81D2F3B20002B7F6C /* data.db in Resources */,
 				698362971D2F3966002B7F6C /* Assets.xcassets in Resources */,
 				698362951D2F3966002B7F6C /* Main.storyboard in Resources */,
